@@ -15,7 +15,7 @@ __Strongest:__  JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS
 
 __Funamentals:__  Angular, Bootstrap, SQL, Mocha, Chai, Enzyme, Jest, Mongoose, Heroku, TravisCI, Webpack  
 
-__Personal:__  Effective communicator, Dedicated, Self-motivated, Analytical, Problem solver, Eager to learn and share knowledge, Appreciative of feedback, Friendly
+__Personal:__  Effective communicator, Driven, Self-motivated, Dependable, Analytical, Problem solver, Adaptive, Eager to learn and share knowledge, Appreciative of feedback, Friendly
 
 ## Projects
 
