@@ -1,9 +1,9 @@
 # Jason Roundtree | Resume
 jasontree123@gmail.com  
 206-930-5220  
-LinkedIn:  https://linkedin.com/in/jason-t-roundtree  
-Github:  https://github.com/RoundEm  
-Personal Site:  http://jasonroundtree.info
+LinkedIn: &nbsp; https://linkedin.com/in/jason-t-roundtree  
+Github: &nbsp; https://github.com/RoundEm  
+Personal Site: &nbsp; http://jasonroundtree.info
 
 ## Summary
 
@@ -27,33 +27,33 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
 
 ## Experience
 
-__Consultant / Contractor, Navia Benefit Solutions, Oct. 2017 - July 2018__
+__Consultant / Contractor__ - Navia Benefit Solutions, Oct. 2017 - July 2018
 * Consulted account management team on my former clients 
 * Processed electronic data feeds and assisted with special projects and audits
 
-__Account Manager, Navia Benefit Solutions, Aug. 2011- Oct. 2017__
+__Account Manager__ - Navia Benefit Solutions, Aug. 2011 - Oct. 2017
 * Handled 100+ plan renewals annually with a retention rate of over 90%
 * Onboarded new clients and established a foundation for success and identifying opportunities for client growth
 * Assisted development team on system enhancements based on client feedback  
 * Demonstrated product offerings and trained clients on how to successfully use online tools and resources 
 * Wrote and designed marketing communications and educational documents
 
-__Customer Care Rep / Claim Adjudicator, Navia Benefit Solutions, Aug. 2010 - Aug. 2011__
+__Customer Care Rep / Claim Adjudicator__ - Navia Benefit Solutions, Aug. 2010 - Aug. 2011
 * Managed phone line that received 120+ calls daily and helped empower customer success 
 * Assigned as dedicated point of contact and claim processor for specialized and high-demand clients
 * Attended benefit fairs to promote lines of coverage and provide education to customers
 * Responsible for handling escalated customer calls
 
-__Mailroom & Office Coordinator, Navia Benefit Solutions, Mar. 2009 - Aug. 2010__
+__Mailroom & Office Coordinator__ - Navia Benefit Solutions, Mar. 2009 - Aug. 2010
 * Managed mailroom and general office supplies
 * Assisted with special projects and audits outside of mailroom
 
-__Assistant Engineer / Intern, Robert Lang Recording Studios, Dec. 2008 - Dec. 2009__
+__Assistant Engineer / Intern__ - Robert Lang Recording Studios, Dec. 2008 - Dec. 2009
 * Assisted head engineers and musicians with recording sessions
 * Helped establish and write curriculum for student program
 
 ## Education
 
-__Full Stack Flexible Web Development__ Thinkful - Online  
-__Associate in Recording Arts & Audio Engineering__ Full Sail University - Winter Park, FL  
-__Associate in Arts & Sciences__ Bellevue College - Bellevue, WA
+__Full Stack Flexible Web Development__  &nbsp; Thinkful - Online  
+__Associate in Recording Arts & Audio Engineering__  &nbsp; Full Sail University - Winter Park, FL  
+__Associate in Arts & Sciences__  &nbsp; Bellevue College - Bellevue, WA
