@@ -1,4 +1,4 @@
-# Jason Roundtree | Resume
+# Jason Roundtree &nbsp; | &nbsp; Resume
 jasontree123@gmail.com  
 206-930-5220  
 LinkedIn: &nbsp; https://linkedin.com/in/jason-t-roundtree  
@@ -29,7 +29,7 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
 
 <table>
   <tr>
-    <td><strong>Consultant / Contractor - Navia Benefit Solutions, Oct. 2017 - July 2018</strong></td>
+    <td><strong>Consultant / Contractor - Navia Benefit Solutions Oct. 2017 - July 2018</strong></td>
   </tr>
   <tr>
     <td>
@@ -58,7 +58,7 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
     <td>
       <li>Managed phone line that received 120+ calls daily and helped empower customer success</li>
       <li>Assigned as dedicated point of contact and claim processor for specialized and high-demand clients</li>
-      <li>ttended benefit fairs to promote lines of coverage and provide education to customers</li>
+      <li>Represented company at benefit fairs to promote lines of coverage and provide education to customers</li>
       <li>Responsible for handling escalated customer calls</li>
     </td>
   </tr>
