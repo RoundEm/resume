@@ -1,4 +1,4 @@
-# Jason Roundtree &nbsp; | &nbsp; Resume
+# Jason Roundtree &nbsp; :zap: &nbsp; Resume
 jasontree123@gmail.com  
 206-930-5220  
 LinkedIn: &nbsp; https://linkedin.com/in/jason-t-roundtree  
@@ -90,3 +90,4 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
 __Full Stack Flexible Web Development__  &nbsp; Thinkful - Online  
 __Associate in Recording Arts & Audio Engineering__  &nbsp; Full Sail University - Winter Park, FL  
 __Associate in Arts & Sciences__  &nbsp; Bellevue College - Bellevue, WA
+
