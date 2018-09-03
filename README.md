@@ -1,9 +1,9 @@
 # Jason Roundtree &nbsp; :zap: &nbsp; Resume
 jasontree123@gmail.com  
 206-930-5220  
-LinkedIn: &nbsp; https://linkedin.com/in/jason-t-roundtree  
-Github: &nbsp; https://github.com/RoundEm  
-Personal Site: &nbsp; http://jasonroundtree.info
+__Linkedin:__ &nbsp; https://linkedin.com/in/jason-t-roundtree  
+__Github:__ &nbsp; https://github.com/RoundEm  
+__Personal Site:__ &nbsp; http://jasonroundtree.info
 
 ## Summary
 
