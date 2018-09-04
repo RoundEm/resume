@@ -29,7 +29,7 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
 
 <table>
   <tr>
-    <td><strong>Consultant / Contractor - Navia Benefit Solutions Oct. 2017 - July 2018</strong></td>
+    <td><strong>Consultant / Contractor - Navia Benefit Solutions Oct. 2017 - Current</strong></td>
   </tr>
   <tr>
     <td>
