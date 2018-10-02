@@ -11,11 +11,10 @@ Highly motivated full stack web developer that enjoys leveraging modern technolo
 
 ## Technologies and Skills
 
-__Strongest:__  JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS3, Sass, Command Line, Git, Github, REST APIs, MongoDB, Accessibility, Responsive Design, NPM  
+Tech: JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS3, Sass, SQL, MongoDB, Mongoose, Bash, Git, Github, REST APIs, Accessibility, Responsive Design, NPM, Bootstrap
 
-__Funamentals:__  Angular, Bootstrap, SQL, Mocha, Chai, Enzyme, Jest, Mongoose, Heroku, TravisCI, Webpack  
 
-__Personal:__  Effective communicator, Driven, Self-motivated, Dependable, Analytical, Problem solver, Adaptive, Eager to learn and share knowledge, Appreciative of feedback, Friendly
+Personal Skills: Effective communicator, driven, self-motivated, dependable, analytical, curious, problem solver, adaptive, eager to learn and share knowledge, appreciative of feedback, easy to get along with
 
 ## Projects
 
