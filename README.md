@@ -11,7 +11,7 @@ Highly motivated full stack web developer that enjoys leveraging modern technolo
 
 ## Technologies and Skills
 
-Tech: JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS3, Sass, SQL, MongoDB, Mongoose, Bash, Git, Github, REST APIs, Accessibility, Responsive Design, NPM, Bootstrap
+Tech: JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS3, Python, Sass, SQL, MongoDB, Mongoose, Bash, Git, Github, REST APIs, Accessibility, Responsive Design, NPM, Bootstrap
 
 
 Personal Skills: Effective communicator, driven, self-motivated, dependable, analytical, curious, problem solver, adaptive, eager to learn and share knowledge, appreciative of feedback, easy to get along with
@@ -28,7 +28,16 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
 
 <table>
   <tr>
-    <td><strong>Consultant / Contractor - Navia Benefit Solutions Oct. 2017 - Current</strong></td>
+    <td><strong>Teaching Assistant - Trilogy Education / University of Washington, Nov. 2018 - Current</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <li>Assist with bootcamp class management and teaching students common full stack web development technologies including JavaScript, React, jQuery, Node, Express, MongoDB, MySQL, HTML, CSS</li>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Consultant / Contractor - Navia Benefit Solutions, Oct. 2017 - Current</strong></td>
   </tr>
   <tr>
     <td>
