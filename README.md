@@ -7,11 +7,11 @@ __Personal Site:__ &nbsp; http://jasonroundtree.info
 
 ## Summary
 
-Highly motivated full stack web developer that enjoys leveraging modern technologies to create enjoyable and productive user experiences. Perpetual appetite for learning new technologies and better methods.
+Highly motivated full stack web developer that enjoys leveraging modern technologies to create enjoyable and productive user experiences. Strong appetite for learning new technologies and better methods and sharing knowledge with others. Adept at being flexible and making myself useful in many different domains.
 
 ## Technologies and Skills
 
-Tech: JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS3, Python, Sass, SQL, MongoDB, Mongoose, Bash, Git, Github, REST APIs, Accessibility, Responsive Design, NPM, Bootstrap
+Tech: JavaScript, ES6, React, Redux, Node, Express, jQuery, HTML5, CSS3, Sass, Bootstrap, SQL, MongoDB, Mongoose, Git, Github, REST APIs, GraphQL, Accessibility, Responsive Design, RegEx, NPM
 
 
 Personal Skills: Effective communicator, driven, self-motivated, dependable, analytical, curious, problem solver, adaptive, eager to learn and share knowledge, appreciative of feedback, easy to get along with
@@ -28,11 +28,12 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
 
 <table>
   <tr>
-    <td><strong>Teaching Assistant - Trilogy Education / University of Washington, Nov. 2018 - Current</strong></td>
+    <td><strong>Tutor/Teaching Assistant - Trilogy Education for University of Washington, Nov. 2018 - Current</strong></td>
   </tr>
   <tr>
     <td>
-      <li>Assist with bootcamp class management and teaching students common full stack web development technologies including JavaScript, React, jQuery, Node, Express, MongoDB, MySQL, HTML, CSS</li>
+      <li>Help students learn and troubleshoot common full stack web development technologies including SQL, JavaScript, Node, jQuery, React, MongoDB, HTML, CSS, REST, GraphQL, AJAX, Git, Github</li>
+      <li>Assist with all-around class management and grading student homework</li>
     </td>
   </tr>
   
