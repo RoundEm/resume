@@ -32,7 +32,7 @@ Clash for the Cup <br /> https://clash-for-the-cup.herokuapp.com/ | Create compe
   </tr>
   <tr>
     <td>
-      <li>Help students learn and troubleshoot common full stack web development technologies including SQL, JavaScript, Node, jQuery, React, MongoDB, HTML, CSS, REST, GraphQL, AJAX, Git, Github</li>
+      <li>Help students learn and troubleshoot common full stack web development technologies including JavaScript, Node, jQuery, React, SQL, MongoDB, HTML, CSS, REST, GraphQL, AJAX, Git, Github</li>
       <li>Assist with all-around class management and grading student homework</li>
     </td>
   </tr>
